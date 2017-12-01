@@ -14,7 +14,7 @@ Por ejemplo: Ponemos el mapa físico de la península y plastilina conductora:
 Hacer un programa en Scratch que vaya preguntando y si contestas bien que salga aplausos y un texto "bien" en caso contrario un sonido de fallo y el mensaje "No no"
 
 ![](img/makeymakey-pirineos.jpg)
-<script type="text/javascript">var feedback32_93text = "Solución";</script><input type="button" name="toggle-feedback-32_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+
 
 ### Retroalimentación
 

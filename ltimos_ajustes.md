@@ -16,7 +16,7 @@ De igual forma a lo realizado en la letra B, replicamos la programación para el
 - Su mensaje será "impacto-C"
 - La posición fija del objeto C puede ser x=160 y=110
 
-<script type="text/javascript">var feedbackquesFeedback0b164text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b164" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
 
 ### Retroalimentación
 
@@ -40,7 +40,7 @@ Crear una variable llamada TIEMPO.
 
 En la programación del Fondo (los fondos también pueden tener sus propios programas), incluiremos un nuevo programa. Al inicio reiniciaremos el cronómetro. En un bucle que se ejecutará siempre, pondremos el valor del cronómetro en la variable TIEMPO y así se visualizará en pantalla.
 
-<script type="text/javascript">var feedbackquesFeedback0b165text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b165" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
 
 ### Retroalimentación
 
@@ -62,7 +62,7 @@ En cada objeto de letra: añadir un valor a la lista cada vez que se impacte una
 
 En el objeto de lapiz: Crear una lista. Ocultarla y vaciarla al inicio del juego. 
 
-<script type="text/javascript">var feedbackquesFeedback0b166text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b166" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
 
 ### Retroalimentación
 

@@ -6,7 +6,7 @@
 Puede ser un cuadro, o también un mapa, un panel gráfico con las partes del cuerpo, relieve ...
 
 {% youtube %}https//www.youtube.com/watch?v=CB_O7GFDZBc{% endyoutube %}
-<script type="text/javascript">var feedback14_93text = "Solución";</script><input type="button" name="toggle-feedback-14_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+
 
 ### Retroalimentación
 

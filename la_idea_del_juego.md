@@ -26,7 +26,7 @@ Ponle un nombre al proyecto: LAPICERO PUNTERO
 
 
 
-<script type="text/javascript">var feedbackquesFeedback0b149text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b149" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
 
 ### Retroalimentación
 

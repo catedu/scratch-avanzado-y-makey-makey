@@ -6,7 +6,7 @@
 Nuestra propuesta es de [Programo Ergo sum - futbol](http://www.programoergosum.com/cursos-online/scratch/141-juego-de-futbol-eurocopa-16-programado-con-scratch)
 
 {% youtube %}https//www.youtube.com/watch?v=n5JEJ8NV7V4{% endyoutube %}
-<script type="text/javascript">var feedback29_93text = "Solución";</script><input type="button" name="toggle-feedback-29_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+
 
 ### Retroalimentación
 

@@ -6,7 +6,7 @@
 Hacer un piano humano
 
 {% youtube %}https//www.youtube.com/watch?v=928P7-xr6OY{% endyoutube %}
-<script type="text/javascript">var feedback13_93text = "Solución";</script><input type="button" name="toggle-feedback-13_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
+
 
 ### Retroalimentación
 

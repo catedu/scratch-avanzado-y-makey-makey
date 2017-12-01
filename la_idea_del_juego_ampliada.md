@@ -23,7 +23,7 @@ Añade la pizarra como fondo.<br />
 
 Ponle un nombre al proyecto: LAPICERO TRAVIESO
 
-<script type="text/javascript">var feedbackquesFeedback0b158text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-quesFeedback0b158" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+
 
 ### Retroalimentación
 
