@@ -8,8 +8,10 @@ Nuestra propuesta es de [Programo Ergo sum - futbol](http://www.programoergosum.
 {% youtube %}https//www.youtube.com/watch?v=n5JEJ8NV7V4{% endyoutube %}
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 {% youtube %}https//www.youtube.com/watch?v=sUC0JvL1rOY{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=aoksH0RSgO0{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=nKdrurkjr2I{% endyoutube %}
+
+%/accordion%

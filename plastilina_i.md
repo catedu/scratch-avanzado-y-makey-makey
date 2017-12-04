@@ -8,7 +8,7 @@ Puede ser un cuadro, o también un mapa, un panel gráfico con las partes del cu
 {% youtube %}https//www.youtube.com/watch?v=CB_O7GFDZBc{% endyoutube %}
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Para hacer la plastilina conductora aquí tienes una receta:
 

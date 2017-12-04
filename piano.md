@@ -8,7 +8,7 @@ Hacer un piano humano
 {% youtube %}https//www.youtube.com/watch?v=928P7-xr6OY{% endyoutube %}
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Primero tenemos que definir qué teclas son qué notas, nuestra propuesta es la siguiente:
 |Tecla|Nota

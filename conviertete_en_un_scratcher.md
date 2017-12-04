@@ -2,6 +2,7 @@
 # Conviertete en un Scratcher
 
 ![](https://wiki.scratch.mit.edu/w/images/Default_Scratch_Avatar.png)
+
 Al cabo de un tiempo Scratch te preguntará si quieres ser un **Scratcher** ¿qué implica? pues básicamente que respetarás las normas básicas de convivencia un foro de este tipo, actualmente se fija en los siguientes aspectos:
 
 - Limitaciones en tus **comentarios**: Tus críticas tienen que ser constructivas, no negativas y respetando las opiniones, trabajos y comentarios de los demás
@@ -12,5 +13,5 @@ El Scratcher, por supuesto tiene que estar registrado y aunque no es necesario, 
 
 Aquí se puede trabajar los **valores de las comunidades virtuales**, la importancia de los comentarios, foros, debates ... sin perder la vista el **constructivismo**,**colaboración** ...  no la simple palabrería. La cooperación, no sólo técnicamente, sino también se puede ser animar, felicitar ...
 
-
+https://wiki.scratch.mit.edu/wiki/New_Scratcher_Status
 

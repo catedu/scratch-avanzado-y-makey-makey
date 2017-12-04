@@ -6,7 +6,7 @@
 {% youtube %}https//www.youtube.com/watch?v=01DvtPs0x4M{% endyoutube %}
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 {% youtube %}https//www.youtube.com/watch?v=WXUuqY-2yY4{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=PgrZqwEnPNA{% endyoutube %}

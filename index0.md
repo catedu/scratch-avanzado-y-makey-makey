@@ -5,7 +5,7 @@ Con los contenidos vistos hasta ahora ([curso de Scratch básico)](http://aulara
 
 Mira esta presentación:
 
-<iframe width="595" height="485" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/wb3kOdWlXNWNSm?startSlide=5" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
+<iframe width="595" height="485" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/wb3kOdWlXNWNSm?startSlide=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen=""></iframe>
 
 - Preguntas y respuestas
 - Apuntar y pulsar

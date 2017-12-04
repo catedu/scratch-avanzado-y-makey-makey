@@ -8,7 +8,7 @@ Nuestra propuesta es de [Programo Ergo Sum -arkanoid](http://www.programoergosum
 ![](https://upload.wikimedia.org/wikipedia/en/a/a2/Arkanoid.png)
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 {% youtube %}https//www.youtube.com/watch?v=dddeFS44f-E{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=R1J6csAkbfs{% endyoutube %}

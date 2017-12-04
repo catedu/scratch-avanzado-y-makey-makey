@@ -7,9 +7,12 @@ Haremos que el lápiz se mueva a izquierda y derecha al presionar flechas izquie
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_058.1.png)
+
+%accordion%
+
 ## Caso práctico: lanzar el lápiz
 
 Al presionar Flecha arriba, haremos que el lápiz se mueva constantemente hacia arriba, hasta llegar al borde de arriba.
@@ -21,13 +24,18 @@ Al presionar Flecha arriba, haremos que el lápiz se mueva constantemente hacia 
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_054.png)
+
+%accordion%
+
 Cuando llegue el lápiz arriba del todo, es decir: cuando se termine el bucle que comprueba si el lápiz ha tocado un borde, lo volvemos a poner en su situación inicial.
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_057.png)
+
+%accordion%

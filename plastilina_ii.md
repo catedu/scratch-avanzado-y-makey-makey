@@ -16,7 +16,7 @@ Hacer un programa en Scratch que vaya preguntando y si contestas bien que salga 
 ![](img/makeymakey-pirineos.jpg)
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Este es el proyecto:[ ](https://scratch.mit.edu/projects/124217131/)[https://scratch.mit.edu/projects/124217131/](https://scratch.mit.edu/projects/124217131/)[](https://scratch.mit.edu/projects/124217131/)
 

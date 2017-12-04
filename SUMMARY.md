@@ -19,7 +19,7 @@ ____
 * [Movimiento del lápiz](movimiento_del_lpiz1.md)
 * [Movimiento del disparo](movimiento_del_disparo.md)
 * [Colisión del disparo con un objeto](colisin_del_disparo_con_un_objeto.md)
-* [Ã&scaron;ltimos ajustes](ltimos_ajustes.md)
+* [Últimos ajustes](ltimos_ajustes.md)
 * [Resultado final](resultado_final1.md)
 ____
 ### 3. Abriendo posibilidades

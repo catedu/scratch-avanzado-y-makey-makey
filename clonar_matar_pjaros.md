@@ -8,7 +8,7 @@ Esta es una buena propuesta de [PROGRAMO ERGO SUM - CLONAR](http://www.programoe
 {% youtube %}https//www.youtube.com/watch?v=E74_nUAaZbY{% endyoutube %}
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Preliminares
 

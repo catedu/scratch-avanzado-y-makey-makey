@@ -6,8 +6,7 @@
 Ahora hay que programar las letras B y C igual que la A para que tenga el mismo comportamiento. Su programación será prácticamente igual a la del objeto A, cambiando el nombre del mensaje y sus coordenadas.
 
 - Para no empezar de cero, es posible arrastrar todos los bloques de programación de la A sobre el objeto B.
-<li>Posteriormente, hay que cambiar datos específicos para objeto B:
-<ul>
+- Posteriormente, hay que cambiar datos específicos para objeto B:
 - El mensaje será "impacto-B"
 - Las coordenadas iniciales para B serán x=0 y=110
 
@@ -18,7 +17,7 @@ De igual forma a lo realizado en la letra B, replicamos la programación para el
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_043.png)
 ![](img/Seleccion_044.png)
@@ -30,7 +29,7 @@ De igual forma a lo realizado en la letra B, replicamos la programación para el
 - Cambiarle el nombre al objeto por "A" (Botón dcho del ratón sobre el objeto B - info)
 - Cambiar los datos especiíficos del objeto B (mensaje "impacto-B", coordenadas -30, 110), y no olvidar añadir la comprobación de colisión en la programación del disparo.
 
-
+%accordion%
 
 ## Caso práctico: Añadir un temporizador
 
@@ -42,9 +41,12 @@ En la programación del Fondo (los fondos también pueden tener sus propios prog
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_050.png)
+
+%accordion%
+
 ## Caso práctico: último reto, controlar el fin de juego
 
 Cuando hayamos impactado con todas las letras, mostrar un mensaje en pantalla informando de "Fin de juego".
@@ -64,13 +66,15 @@ En el objeto de lapiz: Crear una lista. Ocultarla y vaciarla al inicio del jueg
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Crear una lista (pestaña Programas - Datos) y la llamamos LETRAS.
 
 En la programación de las letras, añadir este bloque tras recibir el mensaje de impacto:
 
 ![](img/Seleccion_061.1.png)
+
 El programa del lápiz para controlar el fin de juego quedaría así:
 
 ![](img/Seleccion_062.1.png)
+%accordion%

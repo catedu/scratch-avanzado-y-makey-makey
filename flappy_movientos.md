@@ -5,10 +5,11 @@
 
 La propuesta es de [Programo Ergo Sum Flappy](http://www.programoergosum.com/cursos-online/scratch/115-juego-de-flappy-bird-programado-con-scratch)
 
-![](http://www.estudioiphone.com/wp-content/uploads/2014/02/416710-7-tips-for-high-scores-on-flappy-bird.jpg)
+![](img/flappy-bird-con-scratch.gif)
 
 
-### Retroalimentación
+
+%accordion%Solución%accordion%
 
 Fondos
 
@@ -19,3 +20,4 @@ movientos
 puntuación
 
 {% youtube %}https//www.youtube.com/watch?v=PHadoJxg3Uo{% endyoutube %}
+%accordion%

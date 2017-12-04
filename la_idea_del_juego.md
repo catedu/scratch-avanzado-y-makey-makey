@@ -7,12 +7,18 @@ Vamos a programar un juego con Scratch.
 
 Empezaremos montando los objetos que participarán en nuestro juego. Scratch tiene en su biblioteca de imágenes: letras y un lapicero. Con estas imágenes ya tenemos lo necesario para montar nuestros objetos.
 
-Sin embargo, con idea de hacer el juego algo más original, podemos coger dibujos de Internet para montar el juego, o incluso crear con alguna herramienta de dibujo nuestros propios objetos. Para el juego que vamos a trabajar, vamos a utilizar los siguientes dibujos.** Descárgatelos a tu ordenador (botón derecho - guardar imagen como) porque vamos a montar el juego con ellos.**
+Sin embargo, con idea de hacer el juego algo más original, podemos coger dibujos de Internet para montar el juego, o incluso crear con alguna herramienta de dibujo nuestros propios objetos. Para el juego que vamos a trabajar, vamos a utilizar los siguientes dibujos.
+**Descárgatelos a tu ordenador (botón derecho - guardar imagen como) porque vamos a montar el juego con ellos.**
 
-![](img/a.png)
-![](lapiz.png)
-![](blackboard-800px.png)
+![](img/a.png) Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
 
+
+
+![](img/lapiz.png)  Fuente: https://openclipart.org/detail/29133/pencil El lapicero está rotado con Gimp. 
+
+![](img/blackboard-800px.png)
+
+Fuente: https://openclipart.org/detail/49363/blackboard 
 
 ## Caso práctico: Incluir los objetos de nuestro juego
 
@@ -28,6 +34,8 @@ Ponle un nombre al proyecto: LAPICERO PUNTERO
 
 
 
-### Retroalimentación
+%accordion%Solución%accordion%
 
 ![](img/Seleccion_063.png)
+
+%accordion%
