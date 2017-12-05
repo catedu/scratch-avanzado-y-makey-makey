@@ -45,6 +45,6 @@ Con bananas, plastilina, gominolas....
 
 {% youtube %}https//www.youtube.com/watch?v=wkPt9MYqDW0{% endyoutube %}
 
-%accordion%
+%/accordion%
 
 

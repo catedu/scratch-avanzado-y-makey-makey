@@ -12,4 +12,4 @@
 {% youtube %}https//www.youtube.com/watch?v=PgrZqwEnPNA{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=-I3CAcOF1s0{% endyoutube %}
 
-%accordion%git p
+%/accordion%

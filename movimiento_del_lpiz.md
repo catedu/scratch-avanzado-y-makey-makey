@@ -11,7 +11,7 @@ Haremos que el lápiz se mueva a izquierda y derecha al presionar flechas izquie
 
 ![](img/Seleccion_058.1.png)
 
-%accordion%
+%/accordion%
 
 ## Caso práctico: lanzar el lápiz
 
@@ -28,7 +28,7 @@ Al presionar Flecha arriba, haremos que el lápiz se mueva constantemente hacia 
 
 ![](img/Seleccion_054.png)
 
-%accordion%
+%/accordion%
 
 Cuando llegue el lápiz arriba del todo, es decir: cuando se termine el bucle que comprueba si el lápiz ha tocado un borde, lo volvemos a poner en su situación inicial.
 
@@ -38,4 +38,4 @@ Cuando llegue el lápiz arriba del todo, es decir: cuando se termine el bucle qu
 
 ![](img/Seleccion_057.png)
 
-%accordion%
+%/accordion%

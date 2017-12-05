@@ -30,4 +30,4 @@ Conductor o no conductor
 
 {% youtube %}https//www.youtube.com/watch?v=OHk2YBEtmDY{% endyoutube %}
 
-%accordion%
+%/accordion%

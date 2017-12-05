@@ -12,7 +12,7 @@ Empezamos haciendo que el disparo se mueva en 20 pasos hacia arriba: Fijaremos l
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_018.png)
-%accordion%
+%/accordion%
 
 Ahora, el disparo tiene que moverse 20 pasos hacia arriba pero constantemente, hasta que llegue al borde.
 
@@ -21,7 +21,7 @@ Ahora, el disparo tiene que moverse 20 pasos hacia arriba pero constantemente, h
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_019.png)
-%accordion%
+%/accordion%
 
 Ponemos como condición previa a todo esto que se ponga en marcha si se ha presionado la tecla espacio.
 
@@ -34,7 +34,7 @@ Esto sólo se arranca una vez, necesitamos meter un bucle para que el programa e
 
 ![](img/Seleccion_021.png)
 
-%accordion%
+%/accordion%
 
 El disparo debe salir del lápiz, por tanto, debemos posicionar el disparo encima del lapicero. posicionaremos el disparo 50 pixeles por encima de la posición del lápiz. ¿En qué momento hay que posicionarlo?: antes del bucle que mueve el disparo hacia arriba.
 
@@ -44,7 +44,7 @@ El disparo debe salir del lápiz, por tanto, debemos posicionar el disparo enci
 
 ![](img/Seleccion_023.png)
 
-%accordion%
+%/accordion%
 
 ¿Cuándo mostrar y ocultar el disparo?
 
@@ -57,4 +57,4 @@ El disparo debe salir del lápiz, por tanto, debemos posicionar el disparo enci
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_024.png)
-%accordion%
+%/accordion%

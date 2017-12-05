@@ -38,4 +38,4 @@ Ponle un nombre al proyecto: LAPICERO PUNTERO
 
 ![](img/Seleccion_063.png)
 
-%accordion%
+%/accordion%

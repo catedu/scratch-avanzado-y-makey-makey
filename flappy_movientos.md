@@ -20,4 +20,4 @@ movientos
 puntuación
 
 {% youtube %}https//www.youtube.com/watch?v=PHadoJxg3Uo{% endyoutube %}
-%accordion%
+%/accordion%

@@ -29,7 +29,7 @@ De igual forma a lo realizado en la letra B, replicamos la programación para el
 - Cambiarle el nombre al objeto por "A" (Botón dcho del ratón sobre el objeto B - info)
 - Cambiar los datos especiíficos del objeto B (mensaje "impacto-B", coordenadas -30, 110), y no olvidar añadir la comprobación de colisión en la programación del disparo.
 
-%accordion%
+%/accordion%
 
 ## Caso práctico: Añadir un temporizador
 
@@ -45,7 +45,7 @@ En la programación del Fondo (los fondos también pueden tener sus propios prog
 
 ![](img/Seleccion_050.png)
 
-%accordion%
+%/accordion%
 
 ## Caso práctico: último reto, controlar el fin de juego
 
@@ -77,4 +77,4 @@ En la programación de las letras, añadir este bloque tras recibir el mensaje d
 El programa del lápiz para controlar el fin de juego quedaría así:
 
 ![](img/Seleccion_062.1.png)
-%accordion%
+%/accordion%

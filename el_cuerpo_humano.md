@@ -13,4 +13,4 @@ Esta propuesta es de[ Programo Ergo Sum](http://www.programoergosum.com/), [http
 {% youtube %}https//www.youtube.com/watch?v=MD-aHaoXMow{% endyoutube %}
 {% youtube %}https//www.youtube.com/watch?v=m791U-d_qYk{% endyoutube %}
 
-%accordion%
+%/accordion%

@@ -39,4 +39,4 @@ Ponle un nombre al proyecto: LAPICERO TRAVIESO
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_010.1.png)
-%accordion%
+%/accordion%

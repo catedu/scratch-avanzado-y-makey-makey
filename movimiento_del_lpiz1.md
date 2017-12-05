@@ -16,7 +16,7 @@ Empezamos a construir la solución paso a paso. En primer lugar, vamos a hacer q
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_007.png)
-%accordion%
+%/accordion%
 
 Pero esto no funciona. porque estos bloques sólo se arrancan una vez. Y necesitamos que el programa esté constantemente comprobando si la tecla está presionada. Por lo tanto, tenemos que poner todo dentro el bloque de Control "por siempre", para que el programa esté constantemente comprobando si la tecla está presionada. Ahora ya habremos conseguido que el lápiz se mueva a la derecha cuando presionemos la tecla de flecha derecha,
 
@@ -26,7 +26,7 @@ Pero esto no funciona. porque estos bloques sólo se arrancan una vez. Y necesit
 
 ![](img/Seleccion_008.1.png)
 
-%accordion%
+%/accordion%
 
 Lo único que queda es añadir la comprobación de si la tecla de flecha izquierda esté presionada, se mueva el lápiz 10 pasos a la izquierda. 
 
@@ -36,4 +36,4 @@ Lo único que queda es añadir la comprobación de si la tecla de flecha izquier
 
 ![](img/Seleccion_009.1.png)
 
-%accordion%
+%/accordion%

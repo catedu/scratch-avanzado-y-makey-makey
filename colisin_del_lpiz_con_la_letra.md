@@ -22,7 +22,7 @@ Estos bloques los colocaremos justo después de haber movido el lápiz en 10 pos
 
 ![](img/Seleccion_056.png)
 
-%accordion%
+%/accordion%
 
 Ahora tenemos que recoger el mensaje "impacto-A" en el objeto A. Por lo tanto, haremos clic en el objeto A para modificar los bloques de su programación.
 
@@ -34,7 +34,7 @@ Añadiremos un bloque de programación en el objeto A: Cuando se reciba el mensa
 
 ![](img/Seleccion_058.png)
 
-%accordion%
+%/accordion%
 
 Ahora, cuando el objeto A es impactada por el lápiz, desaparece y ya no vuelve a aparecer. Tendremos que hacer que al inicio del juego, el objeto A aparezca visible. Lo podremos añadir en el programa ya existente que mueve la letra A.
 
@@ -42,7 +42,7 @@ Ahora, cuando el objeto A es impactada por el lápiz, desaparece y ya no vuelve 
 
 ![](img/Seleccion_059.png)
 
-%accordion%
+%/accordion%
 
 ## Caso práctico: Añadir puntuación
 
@@ -56,7 +56,7 @@ Crear una variable llamada PUNTOS.
 
 ![](img/Seleccion_060.png)
 
-%accordion%
+%/accordion%
 
 En la programación del objeto A:
 
@@ -67,4 +67,4 @@ En la programación del objeto A:
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_061.png)
-%accordion%
+%/accordion%

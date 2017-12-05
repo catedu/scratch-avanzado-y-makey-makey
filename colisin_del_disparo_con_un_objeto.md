@@ -21,7 +21,7 @@ Dentro del objeto disparo, si el objeto disparo toca al objeto A, enviaremos el 
 
 ![](img/Seleccion_028.png)
 
-%accordion%
+%/accordion%
 
 En la programación del objeto A, necesitaremos recoger el mensaje "impacto-A" en el objeto A. Una vez recogido el mensaje, ocultaremos el objeto A.
 
@@ -31,14 +31,14 @@ En la programación del objeto A, necesitaremos recoger el mensaje "impacto-A" e
 
 ![](img/Seleccion_029.png)
 
-%accordion%
+%/accordion%
 
 Ahora resulta que cuando el objeto A es impactado, se oculta y ya no se muestra ni aunque iniciemos una nueva partida. La solución es hacer que al inicio del juego, el objeto A se muestre.
 
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_047.png)
-%accordion%
+%/accordion%
 ## Caso práctico: ¡Ahora hay que sumar los puntos del juego!
 
 Tendremos los puntos de juego visibles en la pantalla. Haremos que al colisionar el disparo con un objeto, se sume 1 punto. 
@@ -49,7 +49,7 @@ Hay que añadir una variable de puntos. Al añadirla, la variable se verá en el
 
 ![](img/Seleccion_041.png)
 
-%accordion%
+%/accordion%
 En la programación del objeto A, cada vez que se detecte que el objeto A ha sido colisionado por el disparo, se sumará 1 punto en la puntuación del juego.
 
 
@@ -57,4 +57,4 @@ En la programación del objeto A, cada vez que se detecte que el objeto A ha sid
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_036.png)
-%accordion%
+%/accordion%
