@@ -20,8 +20,6 @@ Empezamos a construir la solución. Empezamos poniendo estos bloques:
 %/accordion%
 
 
-
-
 Al arrancar el programa haciendo clic en la Bandera, veremos que la letra A se mueve 3 pasos a la derecha, pero sólo se mueve una vez. 
 
 Por lo tanto, a los bloques que ya tenemos hay que **añadirles** un bloque de Control: "por siempre", y meter ahí dentro el movimiento y control de rebote. Esto genera un bucle, de forma que la letra A no deje de moverse nunca.
