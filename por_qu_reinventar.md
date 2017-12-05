@@ -10,11 +10,9 @@ Se puede aprovechar la actividad de reinventar en el aula para introducir los co
 - Los 4 principios filosóficos del software libre. ([ver](https://es.wikipedia.org/wiki/Software_libre_y_de_c%C3%B3digo_abierto)) 
 - Los 10 principios técnicos del software abierto ([ver](https://es.wikipedia.org/wiki/Software_libre_y_de_c%C3%B3digo_abierto))
 - El software gratis no es libre o abierto y viceversa
-<li>La mejora de la comunidad gracias al acceso de la licencias [GNU o GPL es decir Licencia Publica](https://es.wikipedia.org/wiki/GNU_General_Public_License)
-<ul>
+- La mejora de la comunidad gracias al acceso de la licencias [GNU o GPL es decir Licencia Publica](https://es.wikipedia.org/wiki/GNU_General_Public_License)
 - La historia de [GNU/Linux](https://es.wikipedia.org/wiki/GNU/Linux)
 - Desarrollo de programas libres frente a los privativos
 
-![](http://2.bp.blogspot.com/-rUCUYhSMFAk/VkuskShBqcI/AAAAAAAAAP8/uo3BhLN_r-w/s1600/rspeghc3a8rogoec3b2hc3a8o.png)
-
+![](/img/rspeghc3a8rogoec3b2hc3a8o.png)
 

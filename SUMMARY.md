@@ -34,7 +34,7 @@ ____
 * [ProgramoErgoSum](programoergosum.md)
     * [Vocales](vocales.md)
     * [Clonar Matar pájaros](clonar_matar_pjaros.md)
-    * [2 jugadores FÃºtbol](2_jugadores_ftbol.md)
+    * [2 jugadores Fútbol](2_jugadores_ftbol.md)
     * [Bloques Duck Hunt](bloques_duck_hunt.md)
     * [Flappy movientos](flappy_movientos.md)
     * [Pong](pong.md)

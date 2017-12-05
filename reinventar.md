@@ -22,6 +22,7 @@ y ahora es otro proyecto: [https://scratch.mit.edu/projects/123302249/](https:/
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/123302249/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 
 ![](img/2016-09-29_13_51_14-.png)
+
 Si pinchamos en el árbol sale [esta página](https://scratch.mit.edu/projects/123302249/remixtree/) y aparece 3 reinvenciones (a fecha 29/9/16) el primero es el original, uno segundo (del mismo autor que lo mejoró) y esta última de Catedu 
 
 Hay proyectos donde las reinvenciones son muchas y salen muchas versiones de la misma, por ejemplo [en este proyecto ](https://scratch.mit.edu/projects/14873961/)de tarjetas navideñas[ el árbol de reinvenciones](https://scratch.mit.edu/projects/14873961/remixtree/)

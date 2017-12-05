@@ -24,3 +24,4 @@ si no tienes el Makey Makey no pasa nada, pulsa con el teclado A y W y a jugar !
 
 <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/124217131/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
 
+%accordion%
