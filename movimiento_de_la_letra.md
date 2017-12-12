@@ -42,7 +42,7 @@ Hacemos que A apunte a la derecha para que empiece a moverse hacia la derecha (
 
 %accordion%Solución%accordion%
 
-Con esto ya hemos terminado el PROGRAMA que hace que la letra se mueva sola, y siempre empiece desde la misma posición .
+Con esto ya hemos terminado el PROGRAMA que hace que la letra se mueva sola, y siempre empiece desde la misma posición.
 
 ![](img/Seleccion_046.png)
 
