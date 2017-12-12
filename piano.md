@@ -11,6 +11,8 @@ Hacer un piano humano
 %accordion%Solución%accordion%
 
 Primero tenemos que definir qué teclas son qué notas, nuestra propuesta es la siguiente:
+
+
 |Tecla|Nota|
 |--|--|
 |Flecha izq|48

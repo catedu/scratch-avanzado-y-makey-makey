@@ -3,7 +3,7 @@
 
 ## Para empezar Scratch en clase
 
-- Fichas de Scratch [[descarga](Scratch2Cards.pdf) (pdf - 14.37) [fuente](https://cdn.scratch.mit.edu/scratchr2/static/__6b7b8788189c6e9988e08dba828edba6__/pdfs/help/es/Scratch2Cards.pdf)
+- Fichas de Scratch [descarga de la fuente](https://cdn.scratch.mit.edu/scratchr2/static/__6b7b8788189c6e9988e08dba828edba6__/pdfs/help/es/Scratch2Cards.pdf)
 - Fichas de Scratch [Aprende como un niño](http://ventanatic.blogspot.com.es/2008/10/scratch-multimedia-crear-como-un-nio_26.html)
 - Los 12 retos cortos de menor a mayor profundidad [descarga](E2012ScratchRetosEntregable.doc) (doc - 337.5) [fuente](http://eduteka.icesi.edu.co/articulos/ScratchRetosCortos)[](http://eduteka.icesi.edu.co/articulos/ScratchRetosCortos)
 - Para los más pequeños, con tableta y la app Scratchjr [hacer estos retos](http://eduteka.icesi.edu.co/articulos/scratchjr-actividades)

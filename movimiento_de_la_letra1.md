@@ -12,4 +12,5 @@ Al presionar bandera, posicionamos la letra en un lugar fijo y apuntando a la de
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_046.png)
+
 %/accordion%

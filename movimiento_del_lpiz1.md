@@ -16,6 +16,7 @@ Empezamos a construir la solución paso a paso. En primer lugar, vamos a hacer q
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_007.png)
+
 %/accordion%
 
 Pero esto no funciona. porque estos bloques sólo se arrancan una vez. Y necesitamos que el programa esté constantemente comprobando si la tecla está presionada. Por lo tanto, tenemos que poner todo dentro el bloque de Control "por siempre", para que el programa esté constantemente comprobando si la tecla está presionada. Ahora ya habremos conseguido que el lápiz se mueva a la derecha cuando presionemos la tecla de flecha derecha,

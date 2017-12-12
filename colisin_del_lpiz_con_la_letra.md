@@ -67,4 +67,5 @@ En la programación del objeto A:
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_061.png)
+
 %/accordion%

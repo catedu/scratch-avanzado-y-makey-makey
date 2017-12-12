@@ -38,6 +38,7 @@ Ahora resulta que cuando el objeto A es impactado, se oculta y ya no se muestra 
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_047.png)
+
 %/accordion%
 ## Caso práctico: ¡Ahora hay que sumar los puntos del juego!
 
@@ -57,4 +58,5 @@ En la programación del objeto A, cada vez que se detecte que el objeto A ha sid
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_036.png)
+
 %/accordion%

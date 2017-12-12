@@ -77,4 +77,5 @@ En la programación de las letras, añadir este bloque tras recibir el mensaje d
 El programa del lápiz para controlar el fin de juego quedaría así:
 
 ![](img/Seleccion_062.1.png)
+
 %/accordion%

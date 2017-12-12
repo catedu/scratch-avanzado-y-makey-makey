@@ -12,6 +12,7 @@ Empezamos haciendo que el disparo se mueva en 20 pasos hacia arriba: Fijaremos l
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_018.png)
+
 %/accordion%
 
 Ahora, el disparo tiene que moverse 20 pasos hacia arriba pero constantemente, hasta que llegue al borde.
@@ -21,6 +22,7 @@ Ahora, el disparo tiene que moverse 20 pasos hacia arriba pero constantemente, h
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_019.png)
+
 %/accordion%
 
 Ponemos como condición previa a todo esto que se ponga en marcha si se ha presionado la tecla espacio.
@@ -57,4 +59,5 @@ El disparo debe salir del lápiz, por tanto, debemos posicionar el disparo enci
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_024.png)
+
 %/accordion%

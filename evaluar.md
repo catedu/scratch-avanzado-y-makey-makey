@@ -28,4 +28,4 @@ Si realizanos la evaluación en [Dr Scratch:](http://drscratch.programamos.es/)�
 ![](img/2016-10-01_07_49_22-Dr._Scratch.png)
 Y encima da opción a descargarte un certificado en PDF  ¡qué vergüenza !
 
-![](img/2016-10-01_07_51_07-https---scratch.mit_(1).edu-projects-123355627-_-_PDF-XChange_Viewer.png)
+![](img/2016-10-01_07_51_07-https---scratch.mit_PDF-XChange_Viewer.png)
