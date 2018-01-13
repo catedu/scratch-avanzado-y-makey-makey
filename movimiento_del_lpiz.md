@@ -5,8 +5,6 @@
 
 Haremos que el lápiz se mueva a izquierda y derecha al presionar flechas izquierda y derecha.
 
-
-
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_058.1.png)
