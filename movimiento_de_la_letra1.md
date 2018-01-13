@@ -7,8 +7,6 @@ Vamos a hacer que la letra A se mueva. La letra A debe moverse de izquierda a d
 
 Al presionar bandera, posicionamos la letra en un lugar fijo y apuntando a la derecha. A continuación haremos que, de forma indefinida, la letra se mueva 3 pasos, y cuando llegue al borde de la pantalla, haremos que cambie de dirección.
 
-
-
 %accordion%Solución%accordion%
 
 ![](img/Seleccion_046.png)

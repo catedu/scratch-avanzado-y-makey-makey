@@ -7,12 +7,12 @@ Empezaremos montando los objetos que participarán en nuestro juego. Scratch tie
 
 Sin embargo, con idea de hacer el juego algo más original, podemos coger dibujos de Internet para montar el juego, o incluso crear con alguna herramienta de dibujo nuestros propios objetos. Para el juego que vamos a trabajar, vamos a utilizar los siguientes dibujos. Descárgatelos a tu ordenador (botón derecho - guardar imagen como) porque vamos a montar el juego con ellos.
 
-![](img/a.png)Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
+![](img/a.png) Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
 
-![](img/b.png)Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
+![](img/b.png) Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
 
 
-![](img/c.png)Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
+![](img/c.png) Creación propia, utilizando un editor de textos (OpenOffice Writer), simplemente añadiendo un rectángulo y una letra dentro, y luego capturando la pantalla.
 
 
 ![](img/lapiz.png) Fuente: https://openclipart.org/detail/29133/pencil El lapicero está rotado con Gimp. 
@@ -34,9 +34,10 @@ Añade la pizarra como fondo.<br />
 
 Ponle un nombre al proyecto: LAPICERO TRAVIESO
 
-
-
 %accordion%Solución%accordion%
 
+Te tienes que quedar así:
+
 ![](img/Seleccion_010.1.png)
+
 %/accordion%
