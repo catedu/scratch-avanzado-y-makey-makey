@@ -5,5 +5,4 @@ Es este bloque de contenidos se plantea un reto mayor: continuar mejorando el ju
 
 [Ver resultado final](https://scratch.mit.edu/projects/125282917/)
 
-<iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/125282917/?autostart=false" frameborder="0" allowfullscreen=""></iframe>
-
+<iframe src="https://scratch.mit.edu/projects/125282917/" width="800" height="800" align="center">
