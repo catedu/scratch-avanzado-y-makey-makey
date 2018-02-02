@@ -5,8 +5,7 @@
 
 Hacer un piano humano
 
-{% youtube %}https//www.youtube.com/watch?v=928P7-xr6OY{% endyoutube %}
-
+{% youtube %}https://www.youtube.com/watch?v=M-8-JaDIgY0&feature=youtu.be {% endyoutube %}
 
 %accordion%Solución%accordion%
 
@@ -45,7 +44,7 @@ Es muy aparatoso, lo probamos en un seminario de asesores TIC y quedó de cine !
 
 Con bananas, plastilina, gominolas....
 
-{% youtube %}https//www.youtube.com/watch?v=wkPt9MYqDW0{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=gyBRvFvs3Mk{% endyoutube %}
 
 %/accordion%
 
