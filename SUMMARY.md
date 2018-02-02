@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [Créditos](creditos.md)
 
 ## 1. Gamificación
 
@@ -51,4 +50,5 @@
   * [Evaluar](evaluar.md)
 * [Consejos](consejos.md)
 * [Retos](retos.md)
+* [Créditos](creditos.md)
 
