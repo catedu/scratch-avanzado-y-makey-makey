@@ -37,9 +37,15 @@ La única dificultad es la construcción: Cada tecla del Makey Makey se conecta 
 
 El que toca el piano tiene que estar conectado a la masa del Makey Makey con un cable
 
-Es muy aparatoso, lo probamos en un seminario de asesores TIC y quedó de cine !
+Los niños se lo pasan genial:
 
-![](img/52e94391ce395fb9278b4567.png)
+{% youtube %}https://www.youtube.com/watch?v=jv2vGhF0cV8{% endyoutube%}
+
+O no tan niños ;)
+
+{% youtube %} https://www.youtube.com/watch?v=M-8-JaDIgY0&feature=youtu.be {% endyoutube %} 
+
+
 ## ALTERNATIVAS
 
 Con bananas, plastilina, gominolas....
