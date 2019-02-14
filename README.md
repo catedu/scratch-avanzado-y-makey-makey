@@ -10,4 +10,4 @@ Este curso es **UNA CONTINUACIÓN [DEL CURSO BÁSICO DE SCRATCH](https://www.git
 
 ![](/assets/HERALDO-jpg.jpg)
 
-
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
