@@ -1,1 +1,1 @@
-{"plugins": ["youtube", "accordion"]}
+{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/scratch-avanzado-y-makey-makey/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "scratch-avanzado-y-makey-makey"}}}
