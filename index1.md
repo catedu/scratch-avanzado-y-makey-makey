@@ -7,4 +7,4 @@ El resultado de lo que vamos a conseguir lo puedes ver aquí:
 
 [Ver resultado final](https://scratch.mit.edu/projects/125282917/)
 
-<iframe src="https://scratch.mit.edu/projects/125282917/" width="800" height="800" align="center">
+** <iframe width="485" height="402" allowtransparency="true" src="//scratch.mit.edu/projects/embed/125282917/?autostart=false" frameborder="0" allowfullscreen=""></iframe> **
